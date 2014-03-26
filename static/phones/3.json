@@ -1,0 +1,13 @@
+{
+	"name": "Motorola XOOM with Wi-Fi",
+	"android": {
+      "os": "Android 4.2",
+      "ui": "Android"
+	},
+		"storage": {
+		"flash": "16384MB",
+		"ram": "512MB"
+	},
+	"availability": ["3G/4G"]
+}
+	

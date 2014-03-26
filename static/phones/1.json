@@ -1,0 +1,13 @@
+{
+  "name": "Nexus S",
+  "additionalFeatures": "Contour Display, Near Field Communications (NFC),...",
+  "android": {
+      "os": "Android 2.3",
+      "ui": "Android"
+  },
+  "storage": {
+      "flash": "16384MB",
+      "ram": "512MB"
+  },
+  "availability": ["3G/4G"]
+}
